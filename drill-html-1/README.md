@@ -11,6 +11,7 @@ Within the root of this folder, create a new `.html` file with your group's uniq
 3. Inside the `body`, write an `article`.
 4. Inside the `article`, writing the following: `header` and 2 `div` elements in that order.
 5. Inside the `header`, write a 50x50 placeholder `img` with a `class` attribute with a value of `profile_pic`. Don't forget the `alt` attribute!
+   - Placeholder.com scheme for the `src` attribute value: *https://via.placeholder.com/50x50*.
 6. Still in the `header`, add a short `p` after the `img`.
 7. Apply the following `class` names to the `div` elements in this order:
    1. `gallery`
